@@ -39,6 +39,7 @@ Time series forecasting involves predicting future values based on previously ob
 - The dataset contains time-stamped sensor readings from industrial equipment.
 - Features include temperature, pressure, vibration levels, and RPM.
 - Data is preprocessed to create sequences suitable for LSTM input.
+<img width="495" alt="Image" src="https://github.com/user-attachments/assets/19475d71-40b1-4e96-a88d-9257cdf8e355" />
 
 ## Model Training
 
@@ -79,3 +80,5 @@ print(f"MSE: {mse}, RMSE: {rmse}, MAE: {mae}")
 ## Results
 
 - Forecasted values are plotted against actual values for visual comparison.
+<img width="185" alt="Image" src="https://github.com/user-attachments/assets/1df2f261-77fa-4272-8791-e1b892fc1021" />
+<img width="562" alt="Image" src="https://github.com/user-attachments/assets/5e1ee38c-9f5c-4606-8ffd-e55c360ccabc" />
