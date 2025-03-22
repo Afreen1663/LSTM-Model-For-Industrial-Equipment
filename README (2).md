@@ -81,4 +81,3 @@ print(f"MSE: {mse}, RMSE: {rmse}, MAE: {mae}")
 
 - Forecasted values are plotted against actual values for visual comparison.
 <img width="185" alt="Image" src="https://github.com/user-attachments/assets/1df2f261-77fa-4272-8791-e1b892fc1021" />
-<img width="562" alt="Image" src="https://github.com/user-attachments/assets/5e1ee38c-9f5c-4606-8ffd-e55c360ccabc" />
