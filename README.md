@@ -2,6 +2,8 @@
 
 This project applies Long Short-Term Memory (LSTM) neural networks to forecast time series data for industrial equipment. The objective is to predict future operational metrics using historical data, enabling better planning and maintenance scheduling.
 
+<img width="185" alt="Image" src="https://github.com/user-attachments/assets/1df2f261-77fa-4272-8791-e1b892fc1021" />
+
 ## Table of Contents
 
 - [Overview](#overview)
